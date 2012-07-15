@@ -2,6 +2,9 @@
 
 A Byte Order Mark removal task for grunt.
 
+## WARNING
+As a note it does a direct rewrite of the file, just without the BOM, please make sure you have tested grunt-bom before using it any code, just in case for some reason it decides to eat your code for lunch.
+
 ## Getting Started
 Install this grunt plugin next to your project's [grunt.js gruntfile][getting_started] with: `npm install grunt-bom`
 
