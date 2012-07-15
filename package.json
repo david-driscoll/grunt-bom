@@ -1,0 +1,41 @@
+{
+  "name": "grunt-bom",
+  "description": "The best sample grunt tasks ever.",
+  "version": "0.1.0",
+  "homepage": "https://github.com/Sithy/grunt-bom",
+  "author": {
+    "name": "David Driscoll",
+    "email": "david.driscoll@gmail.com",
+    "url": "http://ww.blacklite.ca"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/Sithy/grunt-bom.git"
+  },
+  "bugs": {
+    "url": "https://github.com/Sithy/grunt-bom/issues"
+  },
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "https://github.com/Sithy/grunt-bom/blob/master/LICENSE-MIT"
+    }
+  ],
+  "main": "grunt.js",
+  "bin": "bin/grunt-bom",
+  "engines": {
+    "node": "*"
+  },
+  "scripts": {
+    "test": "grunt test"
+  },
+  "dependencies": {
+    "grunt": "~0.3.11"
+  },
+  "devDependencies": {
+    "grunt": "~0.3.11"
+  },
+  "keywords": [
+    "gruntplugin"
+  ]
+}
