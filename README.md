@@ -1,6 +1,6 @@
 # grunt-bom
 
-The best sample grunt tasks ever.
+A Byte Order Mark removal task for grunt.
 
 ## Getting Started
 Install this grunt plugin next to your project's [grunt.js gruntfile][getting_started] with: `npm install grunt-bom`
