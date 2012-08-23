@@ -1,3 +1,4 @@
+[![build status](https://secure.travis-ci.org/david-driscoll/grunt-bom.png)](http://travis-ci.org/david-driscoll/grunt-bom)
 # grunt-bom
 
 A Byte Order Mark removal task for grunt.
