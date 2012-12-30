@@ -27,7 +27,7 @@ module.exports = function(grunt) {
   // ==========================================================================
 
   // Concat source files and/or directives.
-  grunt.registerHelper('bom', function(files) {
+  function bom(files) {
 	if (files)
 	{
 		files.map(function(filepath)
@@ -41,6 +41,6 @@ module.exports = function(grunt) {
 			}
 		});
 	}
-  });
+  }
 
-};
+}
